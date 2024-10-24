@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Danuka Nalindu</h1>
-<h3 align="center">Innovation Seeker, Tech Enthusiast, Technology Aficionado 🌟</h3>
+<h3 align="center">Innovation Seeker, Researcher, Tech Enthusiast, Technology Aficionado 🌟</h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="1000" align="center">
 <br/>
