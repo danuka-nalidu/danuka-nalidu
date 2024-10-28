@@ -33,6 +33,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/danuka-nalidu)](https://github.com/danuka-nalidu)
 <br/>
 
+
+### Stats:
 <!-- 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
  -->
