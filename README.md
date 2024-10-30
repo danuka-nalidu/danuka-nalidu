@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web development and Mobile app development**
 
-- 💬 Ask me about **React, Java, Flutter, JS**
+- 💬 Ask me about **React, Java, Flutter**
 
 - 📫 How to reach me: **danukanalidu2002@gmail.com**
 
