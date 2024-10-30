@@ -10,7 +10,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Web development and Mobile app development**
+- 🌱 I’m currently learning **Web development and Mobile application development**
 
 - 💬 Ask me about **React, Java, Flutter**
 
