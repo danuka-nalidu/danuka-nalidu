@@ -42,7 +42,7 @@
 | ------------- | ------------- |
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,dart,flutter,discord,eclipse,express,figma,firebase,git,gradle,java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,dart,flutter,discord,eclipse,express,figma,firebase,git,gradle,java,kotlin,linux,mongodb,notion,npm,php,postman,react,replit,stackoverflow,tailwind,vscode,)](https://skillicons.dev)
 
 <h3 align="left">Support Me:</h3>
 <p>
