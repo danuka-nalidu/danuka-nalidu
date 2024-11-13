@@ -18,7 +18,7 @@
 
 - 🏆 My journey is fueled by curiosity, driven by a passion for innovation, and guided by a desire to learn something new every day
 
-- 🌍 Traveler 🎮 Gamer 🎥 Movie Buff 🎧 Metalhead
+- 🌍 Traveler  🎮  Gamer  🎥  Movie Buff  🎧  Metalhead
 
 <div align="center">
   <br>
