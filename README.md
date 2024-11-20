@@ -33,13 +33,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/danuka-nalidu)](https://github.com/danuka-nalidu)
 <br/>
 
-
-### Stats:
-<!-- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
- -->
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danuka-nalidu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danuka-nalidu&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="danuka-nalidu" /></p> |
-| ------------- | ------------- |
+<h3 align="left">Stats:</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuka-nalidu&layout=compact&theme=dark" alt=danukanalidu" />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danuka-nalidu&show_icons=true&locale=en&theme=radical" alt="danukanalidu" /></p>
 
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,dart,flutter,discord,eclipse,express,figma,firebase,git,gradle,java,kotlin,linux,mongodb,notion,npm,php,postman,react,replit,stackoverflow,tailwind,vscode,gmail,apple,windows)](https://skillicons.dev)
