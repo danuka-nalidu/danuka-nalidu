@@ -10,9 +10,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Web development and Mobile application development**
-
-- 💬 Ask me about **React, Java, Flutter, JS**
+- 🌱 I’m currently learning Angular | React | Springboot | MERN & MEAN stacks
 
 - 📫 How to reach me: **danukanalidu2002@gmail.com**
 
