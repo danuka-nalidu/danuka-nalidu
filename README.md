@@ -15,7 +15,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning Angular | React | Springboot | MERN & MEAN stacks
+- 🌱 I’m currently working with Angular | React | NodeJs | Flutter 
 
 - 📫 How to reach me: **danukanalidu2002@gmail.com**
 
