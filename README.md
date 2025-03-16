@@ -1,5 +1,10 @@
 <h1 align="center">Hey there<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Danuka Nalindu</h1>
+
 <h2 align="center">🚀 Innovation Seeker | 👨‍💻 Tech Enthusiast | 🌟 Technology Aficionando </h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&random=false&width=800&height=50&lines=🚀+Full+Stack+Developer;⚡+React+%7C+Angular+%7C+NodeJS+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind;🎯+Building+Innovative+Solutions;🔥+Learning+%7C+Evolving+%7C+Innovating" alt="Typing SVG">
+</div>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="1000" align="center">
 <br/>
