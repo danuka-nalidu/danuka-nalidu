@@ -3,7 +3,7 @@
 <h2 align="center">🚀 Innovation Seeker | 👨‍💻 Tech Enthusiast | 🌟 Technology Aficionando </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&random=false&width=800&height=50&lines=🚀+Full+Stack+Developer;⚡+React+%7C+Angular+%7C+NodeJS+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind;🎯+Building+Innovative+Solutions;🔥+Learning+%7C+Evolving+%7C+Innovating" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Full+Stack+Developer+%7C+Problem+Solver;⚡+React+%7C+Angular+%7C+Node.js+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;🎯+Crafting+Innovative+%26+Scalable+Solutions;🔥+Lifelong+Learner+%7C+Constantly+Evolving" alt="Typing SVG">
 </div>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="1000" align="center">
