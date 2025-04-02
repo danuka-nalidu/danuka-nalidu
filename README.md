@@ -41,7 +41,7 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danuka-nalidu&show_icons=true&locale=en&theme=radical" alt="danukanalidu" /></p>
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,vite,angular,html,css,tailwind,c,cpp,dart,flutter,java,kotlin,discord,eclipse,express,figma,firebase,git,bash,bitbucket,gradle,jest,linux,mongodb,mysql,sqlite,yarn,notion,npm,php,postman,replit,stackoverflow,vscode,idea,notion,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,vite,angular,html,css,htmx,tailwind,c,cpp,dart,flutter,java,kotlin,discord,eclipse,express,figma,firebase,git,bash,bitbucket,gradle,jest,linux,mongodb,mysql,sqlite,yarn,notion,npm,php,postman,replit,stackoverflow,vscode,idea,notion,apple,windows)](https://skillicons.dev)
 
 <h3 align="left">Support Me:</h3>
 <p>
