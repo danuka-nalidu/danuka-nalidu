@@ -15,13 +15,13 @@
 
 <br/>
 
-- 🌱 I’m currently working with Angular | React | NodeJs | Flutter 
+- 🌱 I’m currently diving deep into Angular | React | Node.js and exploring the world of Microservices  
 
 - 📫 How to reach me: **danukanalidu2002@gmail.com**
 
-- 🏆 My journey is fueled by curiosity, driven by a passion for innovation, and guided by a desire to learn something new every day
+- 🏆 My journey is powered by curiosity, fueled by a passion for innovation, and driven by the desire to learn something new every day
 
-- 🌍 Traveler  🎮  Gamer  🎥  Movie Buff  🎧  Metalhead
+- 🌍 Traveler  🎮  Gamer  🎥  Movie Buff  🎧 Loyal metalhead
 
 <div align="center">
   <br>
