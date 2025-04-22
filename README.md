@@ -15,7 +15,7 @@
 
 <br/>
 
-- 🌱 I’m currently diving deep into Angular | React | Node.js and exploring the world of Microservices  
+- 🌱 Currently sharpening my skills in **Angular**, **React**, **Node.js**, and exploring **Microservices Architecture**
 
 - 📫 How to reach me: **danukanalidu2002@gmail.com**
 
