@@ -59,8 +59,8 @@
 <br/>
 
 <h3 align="left">Stats:</h3>
-<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuka-nalidu&layout=compact&theme=dark" alt=danukanalidu" />
-<p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=danuka-nalidu&show_icons=true&locale=en&theme=radical" alt="danukanalidu" /></p>
+<img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuka-nalidu&layout=compact&theme=dark" alt=danukanalidu" />
+<p>&nbsp;<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=danuka-nalidu&show_icons=true&locale=en&theme=radical" alt="danukanalidu" /></p>
 
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,vite,angular,docker,html,css,htmx,tailwind,c,cpp,dart,flutter,java,kotlin,discord,vercel,eclipse,express,figma,firebase,git,bash,bitbucket,gradle,jest,linux,mongodb,mysql,sqlite,yarn,notion,npm,php,postman,replit,stackoverflow,vscode,idea,notion,apple,windows)](https://skillicons.dev)
