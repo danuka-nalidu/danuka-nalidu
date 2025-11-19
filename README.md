@@ -67,7 +67,7 @@
 
 <h3 align="left">Support Me:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/danukanalidu">
+  <a href="buymeacoffee.com/danukanalidu">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
 </p>
