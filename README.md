@@ -13,7 +13,7 @@
 
 ---
 
-- 🌱 Currently sharpening my skills in **Angular**, **React**, **Node.js**, and exploring **Microservices Architecture**
+- 🌱 Currently sharpening my skills in **Angular.js**, **React.js**, **Node.js**, **Python**, and exploring **Microservices Architecture**
 
 - 📫 How to reach me: **danukanalidu2002@gmail.com**
 
