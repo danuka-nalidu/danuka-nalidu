@@ -58,10 +58,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/danuka-nalidu)](https://github.com/danuka-nalidu)
 <br/>
 
-<h3 align="left">Stats:</h3>
-<img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuka-nalidu&layout=compact&theme=dark" alt=danukanalidu" />
-<p>&nbsp;<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=danuka-nalidu&show_icons=true&locale=en&theme=radical" alt="danukanalidu" /></p>
-
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,py,ts,react,vite,angular,docker,html,css,htmx,tailwind,c,cpp,dart,flutter,kotlin,discord,vercel,netlify,eclipse,express,figma,firebase,git,bash,bitbucket,gradle,jest,linux,mongodb,mysql,sqlite,yarn,notion,npm,php,postman,replit,stackoverflow,vscode,idea,androidstudio,visualstudio,notion,apple,windows)](https://skillicons.dev)
 
