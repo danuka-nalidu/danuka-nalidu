@@ -59,7 +59,7 @@
 <br/>
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,py,ts,react,vite,angular,docker,html,css,htmx,tailwind,c,cpp,dart,flutter,kotlin,discord,vercel,netlify,eclipse,express,figma,firebase,git,bash,bitbucket,gradle,jest,linux,mongodb,mysql,sqlite,yarn,pnpm,notion,npm,regex,postman,replit,stackoverflow,vscode,idea,androidstudio,visualstudio,notion,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,py,ts,react,vite,angular,docker,html,css,htmx,tailwind,c,cpp,dart,flutter,kotlin,discord,vercel,netlify,eclipse,express,figma,firebase,git,githubactions,bash,bitbucket,gradle,jest,linux,mongodb,mysql,sqlite,yarn,pnpm,notion,npm,regex,postman,replit,stackoverflow,vscode,idea,androidstudio,visualstudio,notion,apple,windows)](https://skillicons.dev)
 
 <h3 align="left">Support Me:</h3>
 <p>
