@@ -13,7 +13,7 @@
 
 ---
 
-- 🌱 Currently sharpening my skills in **Angular.js**, **NEXT.js**, **Node.js**, **Python**
+- 🌱 Currently sharpening my skills in **Angular.js**, **NEXT.js**, **Node.js**, **Python**, **swift**
 
 - 📫 How to reach me: **danukanalidu2002@gmail.com**
 
