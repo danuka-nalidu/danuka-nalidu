@@ -1,26 +1,36 @@
-<h1 align="center">Hey there<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Danuka Nalindu</h1>
+<h1 align="center">
+  Hi 👋 I'm Danuka Nalindu
+</h1>
 
-<h2 align="center">🚀 Innovation Seeker | 👨‍💻 Tech Enthusiast | 🌟 Technology Aficionando </h2>
+<h3 align="center">
+  🚀 Innovation Seeker | 👨‍💻 Full-Stack Developer | 🌟 Technology Enthusiast
+</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Full+Stack+Developer+%7C+Problem+Solver;⚡+React+%7C+Angular+%7C+Node.js+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;🎯+Crafting+Innovative+%26+Scalable+Solutions;🔥+Lifelong+Learner+%7C+Constantly+Evolving" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=850&height=60&lines=🚀+Full-Stack+Developer+%7C+Problem+Solver;⚡+React+%7C+Angular+%7C+Node.js+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;🎯+Building+Scalable+%26+Impactful+Solutions;🔥+Lifelong+Learner+%7C+Always+Evolving" alt="Typing SVG">
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="1000" align="center">
-<br/>
 <br/>
 
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="900">
+</p>
 
 ---
 
-- 🌱 Currently sharpening my skills in **Angular.js**, **NEXT.js**, **Node.js**, **Python**, **swift**
+### 👨‍💻 About Me
 
-- 📫 How to reach me: **danukanalidu2002@gmail.com**
+- 🌱 Currently expanding my expertise in **Angular.js**, **Next.js**, **Node.js**, **Python**, and **Swift**
+- 🧠 Passionate about building scalable, efficient, and user-centric applications
+- 🏆 Driven by curiosity, continuous learning, and innovation
+- 🌍 Traveler | 🎮 Gamer | 🎥 Movie Enthusiast | 🎧 Metalhead | 📚 Lifelong Learner
 
-- 🏆 My journey is powered by curiosity, fueled by a passion for innovation, and driven by the desire to learn something new every day
+---
 
-- 🌍 Traveler  🎮  Gamer  🎥  Movie Buff  🎧 Loyal metalhead 📚 Lifelong Learner
-  
+### 📬 Let's Connect
+
+- 📧 Email: **danukanalidu2002@gmail.com**
+
 ---
 <!--
 <div align="center">
