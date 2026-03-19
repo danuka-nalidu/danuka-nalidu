@@ -1,4 +1,4 @@
-<h1 align="center">Danuka Nalindu</h1>
+<h1 align="center">Hey👋🏻, I am Danuka Nalindu</h1>
 
 <h3 align="center">
   Full-Stack Developer | Technology Enthusiast | Innovation-Driven Problem Solver
