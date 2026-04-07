@@ -23,7 +23,8 @@ My work is driven by curiosity, continuous learning, and a commitment to deliver
 
 I am currently expanding my expertise in:
 
-- Angular.js  
+- Angular.js
+- React.js 
 - Next.js  
 - Node.js  
 - Python  
