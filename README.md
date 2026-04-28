@@ -26,7 +26,7 @@ I am currently expanding my expertise in:
 - Angular.js
 - React.js 
 - Next.js  
-- Node.js  
+- Nest.js
 - Python  
 - Swift  
 
