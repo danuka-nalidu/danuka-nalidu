@@ -34,7 +34,7 @@ I am currently expanding my expertise in:
 
 ## 🌍 Interests
 
-Technology & Innovation | Travel | Gaming | Film | Metal Music | Lifelong Learning  
+Technology & Innovation | Travel | Gaming | Film | Music | Lifelong Learning  
 
 ---
 
