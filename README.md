@@ -71,9 +71,9 @@ Technology & Innovation | Travel | Gaming | Film | Music | Lifelong Learning
 
 If you would like to support my work:
 
-<p>
-  <a href="https://buymeacoffee.com/danukanalidu">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+<p align="left">
+  <a href="https://buymeacoffee.com/danukanalidu" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
