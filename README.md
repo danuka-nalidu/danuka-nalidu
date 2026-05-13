@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="55" height="55" />  Hi there <br/> I'm Danuka Nalindu<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
 <h3 align="center">
-  Full-Stack Developer | Technology Enthusiast | Problem Solver | Turning Ideas into Code snippets
+  Full-Stack Developer | Passionate About Web, Mobile & Cloud Technologies | Turning Ideas into Reality
 </h3>
 
 <div align="center">
