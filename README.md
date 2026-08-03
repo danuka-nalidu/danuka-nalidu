@@ -32,12 +32,6 @@ I am currently expanding my expertise in:
 
 ---
 
-## 🌍 Interests
-
-Technology & Innovation | Travel | Gaming | Film | Music | Lifelong Learning  
-
----
-
 ## 📬 Contact
 
 - 📧 Email: **danukanalidu2002@gmail.com**
