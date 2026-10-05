@@ -1,9 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="55" height="55" />  Hi there <br/> I'm Danuka Nalindu<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
-<h3 align="center">
-  Full-Stack Developer | Passionate About Web, Mobile & Cloud Technologies | Turning Magical Ideas Into Code 
-</h3>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=850&height=60&lines=Full-Stack+Developer+%7C+Problem+Solver;React+%7C+Angular+%7C+Node.js+%7C+Flutter;JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;Building+Scalable+and+Impactful+Solutions;Committed+to+Continuous+Learning" alt="Typing SVG">
 </div>
@@ -14,35 +10,9 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="900" alt="Coding Animation">
 </p>
 
----
-
-## 👨‍💻 Professional Summary
-
-I am a dedicated Full-Stack Developer focused on building scalable, efficient, and user-centric applications.  
-My work is driven by curiosity, continuous learning, and a commitment to delivering impactful digital solutions.
-
-I am currently expanding my expertise in:
-
-- Angular.js
-- React.js 
-- Next.js  
-- Nest.js
-- Python  
-- Swift  
-
----
-
-## 📬 Contact
-
-- 📧 Email: **danukanalidu2002@gmail.com**
-- 🔗 LinkedIn: [danukanalindu](https://www.linkedin.com/in/danukanalindu/)
-- 💻 GitHub: [danuka-nalidu](https://github.com/danuka-nalidu)
-
----
-
-## 🛠️ Languages and Tools
-
 <div align="center">
+
+<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,py,ts,react,vite,angular,swift,docker,html,css,htmx,bootstrap,tailwind,c,cpp,dart,flutter,kotlin,discord,vercel,netlify,eclipse,express,figma,firebase,git,githubactions,bash,bitbucket,gradle,jest,cypress,linux,aws,mongodb,postgres,mysql,sqlite,yarn,pnpm,notion,npm,regex,postman,replit,stackoverflow,vscode,idea,androidstudio,visualstudio,apple,windows)](https://skillicons.dev)
 
