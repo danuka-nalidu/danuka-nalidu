@@ -1,35 +1,16 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="55" height="55" />  Hi there <br/> I'm Danuka Nalindu<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=850&height=60&lines=Full-Stack+Developer+%7C+Problem+Solver;React+%7C+Angular+%7C+Node.js+%7C+Flutter;JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;Building+Scalable+and+Impactful+Solutions;Committed+to+Continuous+Learning" alt="Typing SVG">
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="900" alt="Coding Animation">
-</p>
-
-<div align="center">
-
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,py,ts,react,vite,angular,swift,docker,html,css,htmx,bootstrap,tailwind,c,cpp,dart,flutter,kotlin,discord,vercel,netlify,eclipse,express,figma,firebase,git,githubactions,bash,bitbucket,gradle,jest,cypress,linux,aws,mongodb,postgres,mysql,sqlite,yarn,pnpm,notion,npm,regex,postman,replit,stackoverflow,vscode,idea,androidstudio,visualstudio,apple,windows)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CatsJuice/CatsJuice/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/CatsJuice/CatsJuice/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,py,ts,react,vite,angular,swift,docker,html,css,htmx,bootstrap,tailwind,c,cpp,dart,flutter,kotlin,discord,vercel,netlify,eclipse,express,figma,firebase,git,githubactions,bash,bitbucket,gradle,jest,cypress,linux,aws,mongodb,postgres,mysql,sqlite,yarn,pnpm,notion,npm,regex,postman,replit,stackoverflow,vscode,idea,androidstudio,visualstudio,apple,windows)](https://skillicons.dev)
+
+</div>
 
 ## 🤝 Support
 
@@ -39,10 +20,4 @@ If you would like to support my work:
   <a href="https://buymeacoffee.com/danukanalidu" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
-</p>
-
----
-
-<p align="center">
-  Thank you for visiting my profile.
 </p>
