@@ -12,6 +12,14 @@
 
 </div>
 
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://gravatar.com/danukanalidu2002" target="_blank">
+    <img src="https://img.shields.io/badge/Gravatar-1E4CFF?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" />
+  </a>
+</p>
+
 ## 🤝 Support
 
 <p align="left">
