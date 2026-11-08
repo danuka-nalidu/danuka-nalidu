@@ -53,4 +53,4 @@ Published at IEEE: 18th International Conference on Electronics, Computers and A
 
 ### Education
 
-BSc (Hons) in Information Technology, Specialised in Software Engineering · Sri Lanka Institute of Information Technology (SLIIT)
+BSc (Hons) in Information Technology, Specialized in Software Engineering · Sri Lanka Institute of Information Technology (SLIIT)
